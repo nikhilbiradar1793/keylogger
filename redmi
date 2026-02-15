@@ -1,0 +1,11 @@
+This project studies keystroke logging (keylogging) as a cybersecurity threat to understand how attackers capture user input and how organizations can detect and prevent such attacks.
+
+The purpose of this project is educational and defensive, focusing on:
+
+Understanding how keylogging attacks work
+
+Identifying security risks
+
+Learning detection techniques
+
+Implementing prevention strategies
